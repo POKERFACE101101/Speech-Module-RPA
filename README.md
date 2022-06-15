@@ -8,7 +8,7 @@ The main modules are,
       3. Navigation.
 I worked on the Speech Module of the RPA. 
 
-Text Summarization -> It condenses a text file while preserving the key informational elements and the context meaning.
+(A) Text Summarization -> It condenses a text file while preserving the key informational elements and the context meaning.
 Natural Language TookKit(NLTK) was used for this purpose.
 
-YouTube Video Player -> Once a command of "Alfred Play, ....." is given it will recognize the speech and then convert this speech to text. 'pyttsx3' was used for the purpose of text-to-speech conversion. Once the engine recognises the speech and converts to text, it will go to YouTube and play the most viewed video as it will be the most relevant.
+(B) YouTube Video Player -> Once a command of "Alfred Play, ....." is given it will recognize the speech and then convert this speech to text. 'pyttsx3' was used for the purpose of text-to-speech conversion. Once the engine recognises the speech and converts to text, it will go to YouTube and play the most viewed video as it will be the most relevant.
