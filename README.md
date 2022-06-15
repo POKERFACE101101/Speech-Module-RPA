@@ -5,5 +5,5 @@ The Robotic Personal Assistant(RPA) performs various actions. The RPA project in
 The main modules are,
       1. Speech
       2. CVI
-      3. Navigation
+      3. Navigation.
 I worked on the Speech Module of the RPA. 
